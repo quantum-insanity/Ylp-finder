@@ -1,11 +1,18 @@
-alert("Welcome to the beta of this website")
-<!--index.js
+console.log("Welcome to the beta of this website")
 
-import name from './games.json';
-console.log(name);
+fetch("./games.json")
+    .then(res => res.json())
+    .then(json => {
+        var index = 0
+        json.forEach(game => {
+            index++
 
-import description from './games.json'
-console.log(description)
-
-import link from './games.json'
-console.log(link)
+            $( "#row" ).prepend(`<div class='column-theme column-${index}'></div>`);
+            $( `.column-${index}` ).append( `<h2>${game.name}</h2>` );
+            $( `.column-${index}` ).append( `<h3>${game.description}</h3>` );
+            $( `.column-${index}` ).append( `<a href='${game.link}'>Link to ${game.name}</a>` );
+        })
+    })
+    .catch(err => {
+        console.error(err)
+    })
