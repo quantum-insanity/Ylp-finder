@@ -21,21 +21,6 @@
     background-color:  #443950;
   }
   
-  #bottombar {
-    overflow: hidden;
-    background-color: #443950;
-  }
-
-  #bottombar a {
-    float: left;
-    display: block;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-family: Arial, Helvetica, sans-serif;
-  }
-
   /* Style the topnav links */
   #topnav a {
     
@@ -75,9 +60,4 @@
     .column {
       width: 100%;
     }
-  }
-  .footer {
-    background-color: #443950;
-    text-align: center;
-    padding: 10px
   }

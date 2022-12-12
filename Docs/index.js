@@ -1,4 +1,5 @@
 console.log("Welcome to the beta of this website")
+
 fetch("./games.json")
     .then(res => res.json())
     .then(json => {
