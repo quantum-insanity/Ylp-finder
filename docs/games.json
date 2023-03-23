@@ -3,13 +3,13 @@
         "name": "SporeGrounds Beta",
         "description": "SporeGrounds is a rpg where the protagonist turns into a mushroom",
         "link": "https://sporegroundsbetareleases.itch.io/spore-grounds",
-        "image":"bop.png"
+        "image":"Sporegrounds_beta.png"
     },
     {
         "name": "Lucifer",
         "description": "Lucifer is a dungeon crawler in where you are trying to escape from hell after being trapped there.",
         "link": "https://github.com/infinixius/lucifer/releases",
-        "image": "bop.png"
+        "image": "Lucifer.png"
     },
     {
         "name": "Better on Paper",
@@ -21,18 +21,18 @@
         "name": "The Mystifying Trial",
         "description": "The Mystifying Trial is a puzle game where you need to complete the trials",
         "link": "https://2brosinacup.itch.io/the-mystifying-trial",
-        "image":"bop.png"
+        "image":"Dimension Cat Image.png"
     },
     {
         "name": "Dimension Cat",
         "description": "Dimension Cat is a game where you defeat enemies to progress to different dimensions",
         "link": "https://github.com/carsonstary/DimensionCat",
-        "image": "d"
+        "image": "Dimension Cat Image.png"
     },
     {
         "name": "Overheat",
         "description": "A metroidvania where you have to stop a virus from destroying the computer.",
         "link": "N/A",
-        "image":"bop.png"
+        "image":"Overheat Image.png"
     }
 ]
