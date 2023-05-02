@@ -10,7 +10,7 @@ fetch("./design.json")
             $( "#row" ).prepend(`<div class='column-theme column-${index}'></div>`);
             $( `.column-${index}` ).append( `<h2>${design.name}</h2>` );
             $( `.column-${index}` ).append( `<h3>${design.creator}</h3>` );
-            $( `.column-${index}` ).append( `<img src="${design.image}" alt="Game Image didnt load = "width="400"; height="300px";""></img>` );
+            $( `.column-${index}` ).append( `<img src="${design.image}" alt="Image didnt load = "width="400"; height="300px";""></img>` );
         })
     })
     .catch(err => {
