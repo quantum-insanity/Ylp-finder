@@ -1,7 +1,45 @@
 [
     {
-        "name": "Place Holder",
-        "creator": "Josh Stanchek",
-        "image": "art.png"
+        "name": "Mori Gavin:",
+        "creator": "They created vision + creation design for Luna's Tequila Bar & Grill where she created a postcard, newspaper ad, brochure, menu, and a social media ad.",
+        "image1": "mori 1.png",
+        "image2": "mori 2.png",
+        "image3": "mori 3.png",
+        "image4": "mori 4.png",
+        "image5": "mori 5.png"
+    },
+    {
+        "name": "Brody Gastright:",
+        "creator": "He created a visual design for Landonze N' Wayz where he created multiple logos.",
+        "image1": "brody 1.png",
+        "image2": "brody 2.png",
+        "image3": "brody 3.png"
+    },
+    {
+        "name": "Graice Deathridge and Jaden Disniger:",
+        "creator": "They created a photogrophy advertisment for Jennifer Lynn Pictures where she created a poster, car design, social media ad, and a fyler.",
+        "image1": "gracie jaiden 1.png",
+        "image2": "gracie jaiden 2.png",
+        "image3": "gracie jaiden 3.png",
+        "image4": "gracie jaiden 4.png",
+        "image5": "gracie jaiden 5.png",
+        "image6": "gracie jaiden 6.png",
+        "image7": "gracie jaiden 7.png"
+    },
+    {
+        "name": "Taylor Smith:",
+        "creator": "She created a visual design for Dreamy Whip where she created a logo and card.",
+        "image1": "lonely logo.png",
+        "image2": "Dreamy card.png"
+        
+    },
+    {
+        "name": "Christian Wallace:",
+        "creator": "He created a visual identiey project for No Free Realty by DPS or diversified property services where he created a new logo design, business card, yard sign, media ad, and a website design.",
+        "image1": "christan 1.png",
+        "image2": "christan 2.png",
+        "image3": "christan 3.png",
+        "image4": "christan 4.png",
+        "image5": "christan 5.png"
     }
 ]
