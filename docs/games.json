@@ -34,5 +34,23 @@
         "description": "A metroidvania where you have to stop a virus from destroying the computer.",
         "link": "N/A",
         "image":"ngf.png"
+    },
+    {
+        "name": "Diesel the pug warrior",
+        "description": "Help Diesel as he joins forces with his best friend Fred, as they try to save the Kingdom of Everlyn from the evil Luna and bring peace to the land once more in this adventure RPG!",
+        "link": "https://store.steampowered.com/app/2264470/Diesel_The_Pug_Warrior/",
+        "image": "dpw.jpg"
+    },
+    {
+        "name": "Sliding chicken",
+        "description": "This game is a 2D platformer where you have the special ability to slide and glide.",
+        "link": "https://2brosinacup.itch.io/sliding-chicken",
+        "image": "ngf.png"
+    },
+    {
+        "name": "Sliding chicken's insane bowlkng",
+        "description": "This game is a 3d bowling game where you control the ball, trying your best to get a strike!.",
+        "link": "https://2brosinacup.itch.io/sliding-chickens-insane-bowling",
+        "image": "scib.png"
     }
 ]
